@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Dekopon-1.0";
+const cacheName = "SnoCream-Dekopon-1.0";
 const contentToCache = [
     "Build/Builds.loader.js",
     "Build/Builds.framework.js.unityweb",
